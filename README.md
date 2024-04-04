@@ -9,3 +9,13 @@ One of the defining features of Arch is its rolling release model, which means y
 Once you've completed the installation, you're left with a lean, mean, and highly customizable operating system tailored to your exact specifications. Whether you're a developer, power user, or just someone who loves to tinker with their system, Arch Linux provides the flexibility and freedom to create the computing environment of your dreams.
 
 So, buckle up and get ready to dive into the world of Arch Linux, where the only limit is your imagination.
+
+# [Post Installation)](/installation/post-installation.md)
+
+Now that we've conquered the installation process, it's time to explore and customize our new operating system.
+
+Post-installation in Arch Linux is where the real fun begins. We have a minimalistic base system, ready to mold into whatever. Arch Linux provides the flexibility to tailor our system exactly how we want it.
+
+The Arch User Repository (AUR) is a treasure trove of user-contributed packages, giving access to a vast array of software. But customization doesn't stop with software. Arch Linux allows to tweak every aspect of the system, from the kernel and system services to the user interface and desktop environment.
+
+However, with great power comes great responsibility. Unlike other distributions, meaning we're responsible for system maintenance, updates, and troubleshooting. But fear not, the Arch Wiki and the vibrant community are there to support every step of the way.
